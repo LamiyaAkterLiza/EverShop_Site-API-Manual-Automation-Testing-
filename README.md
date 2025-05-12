@@ -32,6 +32,6 @@
 ## 🚀 How to Run Tests  
 1. Open **Evershop** [Website](https://demo.evershop.io/).  
 2. Perform search, apply filters, cart management and verify results.  
-3. Use **Postman** to send API requests for search and add a product to the cart.  
+3. Use **Postman** to open json file for search and add a product to the cart.  
 4. Run **Automation scripts** to validate search results and add product to cart.  
  
