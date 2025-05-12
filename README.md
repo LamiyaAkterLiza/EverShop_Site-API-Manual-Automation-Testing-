@@ -8,7 +8,7 @@
 ## 🔎 Scenario  
 - A user searches for a product using different keywords.  
 - The system should provide **relevant results** with **dynamic suggestions**.  
-- The user adds a **small-sized black product** to the cart and verifies it.  
+- The user adds a **size, color, quantity Product** to the cart and verifies it.  
 - The cart should display the **correct selected product**.  
 - Testing is performed via **UI & API (Postman)**.
 
@@ -27,7 +27,6 @@
 - Validated **dynamic search suggestions** and **filtered results**.  
 - Performed **cross-browser testing** (Chrome).  
 - Integrated tests with **Newman** for reporting.  
-- Captured screenshots for **failed test cases**.  
 - Generated an **automation test report**.  
 
 ## 🚀 How to Run Tests  
